@@ -1,6 +1,6 @@
 # SwiftSpot - Muhamad Arif Ajmal bin Afsanisham S61658
 
-Book Registration App - Framework-Based Mobile Development
+Smart Parking App - Framework-Based Mobile Development
 
 ## Getting Started
 
