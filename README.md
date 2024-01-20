@@ -1,6 +1,6 @@
 # SwiftSpot - Muhamad Arif Ajmal bin Afsanisham S61658
 
-A new Flutter project.
+Book Registration App - Framework-Based Mobile Development
 
 ## Getting Started
 
